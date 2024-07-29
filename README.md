@@ -4,8 +4,8 @@
 ![Bash CI](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes/workflows/bash_unit%20CI/badge.svg)
 ![Shellcheck CI](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes/workflows/Shellcheck%20CI/badge.svg)
 
-ChrisTitusTech Top 5 Bootloader Themes
-======================================
+I want to add all the bootloaders possible here :))))
+=====================================================
 
 Install Bootloader Themes with ease.
 
@@ -19,8 +19,8 @@ Install Bootloader Themes with ease.
 Simply enter following commands in your terminal :
 
 ```bash
-$ git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes
-$ cd Top-5-Bootloader-Themes
+$ git clone https://github.com/EndreEndi/Bootloader-Themes.git
+$ cd Bootloader-Themes
 $ sudo ./install.sh
 ```
 
